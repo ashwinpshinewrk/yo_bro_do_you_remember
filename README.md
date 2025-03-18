@@ -5,8 +5,8 @@
 > A short description of your project. Explain what your project does, what problem it solves, and why it's cool.
 
 ## **Resources**
-**Documentation
-(https://fastapi.tiangolo.com/)
+**Documentation**
+https://fastapi.tiangolo.com/
 
 
 ## **Project Overview**
@@ -31,40 +31,9 @@ List and describe the main features of your project.
 
 Describe the steps needed to get your project up and running. Be specific and clear so that others can easily set it up. 
 
-**Example:**
-
-### **Prerequisites**  
-- Raspberry Pi with Raspbian OS installed  
-- Python 3.x  
-- Dependencies:  
-    - `requests` (for API calls)  
-    - `flask` (for local server)
 
 ### **Steps to run**  
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/YOUR_USERNAME/Project-Name.git
-    ```
-2. Install the required libraries:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3. Set up your APIs:
-    - [Sign up for the Weather API](https://weatherapi.com) and place your API key in the `config.py` file.
-    - [Set up Google Calendar API](https://developers.google.com/calendar) and authenticate.
 
-4. Run the project:
-    ```bash
-    python app.py
-    ```
-
-5. Access your project through the local server on the Pi's browser.
-
----
-
-## **Usage**
-
-Explain how to use your project once it’s installed. Describe any configuration options, how to interact with the project, or provide any necessary commands. 
 
 
 ## **Acknowledgements**
