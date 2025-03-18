@@ -4,24 +4,11 @@
 
 > A short description of your project. Explain what your project does, what problem it solves, and why it's cool.
 
----
-
-## **Table of Contents**  
-- [Project Overview](#project-overview)  
-- [Features](#features)  
-- [Installation](#installation)  
-- [Usage](#usage)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Acknowledgements](#acknowledgements)
-
----
 
 ## **Project Overview**
 
 Provide a brief overview of your project. Explain:
 - What problem your project solves.
-- The technologies, tools, and platforms used (e.g., Raspberry Pi, Python, etc.).
 - Why you chose this project idea and how you approached building it during the hacknight.
 
 **Example:**
@@ -53,7 +40,7 @@ Describe the steps needed to get your project up and running. Be specific and cl
     - `requests` (for API calls)  
     - `flask` (for local server)
 
-### **Steps**  
+### **Steps to run**  
 1. Clone the repository:
     ```bash
     git clone https://github.com/YOUR_USERNAME/Project-Name.git
@@ -79,35 +66,6 @@ Describe the steps needed to get your project up and running. Be specific and cl
 
 Explain how to use your project once it’s installed. Describe any configuration options, how to interact with the project, or provide any necessary commands. 
 
-**Example:**
-- Once the project is running, you can interact with the mirror by saying "Hey Mirror," followed by your query (e.g., "What’s the weather today?").
-- You can customize the calendar feed by linking your Google account in the settings.
-
----
-
-## **Contributing**
-
-If you want others to contribute to your project, provide guidelines on how they can do so.
-
-**Example:**
-We welcome contributions! If you have any ideas or find a bug, feel free to open an issue or submit a pull request.
-
-1. Fork the repository.
-2. Create your feature branch (`git checkout -b feature-name`).
-3. Commit your changes (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature-name`).
-5. Open a pull request.
-
----
-
-## **License**
-
-Include the license under which your project is distributed.
-
-**Example:**
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## **Acknowledgements**
 
