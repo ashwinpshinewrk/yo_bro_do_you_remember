@@ -1,4 +1,6 @@
+![Untitled-3](https://github.com/user-attachments/assets/f8416d90-40a6-4cfc-81e4-bca2ccf36202)
 # **[Project Name]**
+
 
 **Grab A Pi Hacknight 2025**
 
