@@ -8,15 +8,14 @@
 
 
 ## **Link to video**
-
+Add the link here
 
 ## **Installation**
-
 How on earth can we set up your project up and running.
 
 ### **Steps to run**  
+We need Instructinos
 
 ## **Acknowledgements**
-
 Give credit to any resources, tutorials, libraries, or people who helped you build your project.
 
