@@ -4,7 +4,7 @@
 
 > A short description of your project. Explain what your project does, what problem it solves, and why it's cool.
 
-##**Resources**
+## **Resources**
 **Documentation
 (https://fastapi.tiangolo.com/)
 
@@ -20,14 +20,10 @@ This project is a **Pi-powered Smart Mirror** that displays the time, weather, c
 
 ---
 
-## **Features**
+## **What will this do**
 
 List and describe the main features of your project.  
-**Example Features:**
-- Real-time weather updates using [Weather API].
-- Calendar integration with Google Calendar API.
-- Customizable display for news, time, and reminders.
-- User interaction with voice commands.
+
 
 ---
 
