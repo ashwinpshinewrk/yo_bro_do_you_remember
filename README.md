@@ -13,7 +13,7 @@ Add the link here
 ## **Installation**
 How on earth can we set up your project up and running.
 
-### **Steps to run**  
+## **Steps to run**  
 We need Instructinos
 
 ## **Acknowledgements**
