@@ -11,11 +11,11 @@
 Add the link here
 
 ## **Installation**
-How on earth can we set up your project up and running.
+How on earth can we set up your project up and running?
 
 ## **Steps to run**  
-We need Instructinos
+Care to explain?
 
 ## **Acknowledgements**
-Give credit to any resources, tutorials, libraries, or people who helped you build your project.
+Give credit to any resources, tutorials, libraries helped you build your project.
 
