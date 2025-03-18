@@ -6,11 +6,8 @@
 
 > A short description of your project. Explain what your project does, what problem it solves, and why it's cool.
 
-## **Resources**
-**Documentation**
-https://fastapi.tiangolo.com/
 
-**Link to video**
+## **Link to video**
 
 
 ## **Installation**
